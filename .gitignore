@@ -1,3 +1,5 @@
 output/
 node_modules/
 *.log
+transcripts.tar.gz
+
