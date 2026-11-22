@@ -8,7 +8,7 @@ An AI-generated TikTok ad campaign entry for make.fun's $500 bounty.
 
 ## Video
 
-- Video ID: `7711035294916693300`
+- Video ID: `7711052315020545301`
 - Play Code: `makefun-pepper-sauce-clipper`
 - Format: 1080x1920 30fps vertical MP4
 
