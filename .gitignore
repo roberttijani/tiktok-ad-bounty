@@ -2,4 +2,12 @@ output/
 node_modules/
 *.log
 transcripts.tar.gz
+remotion-studio/
+.remotion/
+.agents/
+.claude/
+.hermes/
+.windsurf/
+.zcode/
+skills-lock.json
 
